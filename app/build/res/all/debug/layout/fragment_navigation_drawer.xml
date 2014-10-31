@@ -7,4 +7,4 @@
     android:dividerHeight="0dp"
     android:background="#cccc"
     tools:context="com.androidcicd.app.NavigationDrawerFragment" />
-<!-- From: file:/C:/Users/Xebia-pc/Desktop/Xebia/Android-CI-CD-Git-Jenkins-HockeyApp/AndroidCICD/app/src/main/res/layout/fragment_navigation_drawer.xml -->
+<!-- From: file:/C:/Users/Xebia-pc/Desktop/Xebia/Android-CI-CD-Git-Jenkins-HockeyApp/app/src/main/res/layout/fragment_navigation_drawer.xml -->

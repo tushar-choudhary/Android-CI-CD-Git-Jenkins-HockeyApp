@@ -2,13 +2,13 @@
 <merger>
 
     <dataSet config="19.1.0" >
-        <source path="C:\Users\Xebia-pc\Desktop\Xebia\Android-CI-CD-Git-Jenkins-HockeyApp\AndroidCICD\app\build\exploded-aar\com.android.support\appcompat-v7\19.1.0\assets" />
+        <source path="C:\Users\Xebia-pc\Desktop\Xebia\Android-CI-CD-Git-Jenkins-HockeyApp\app\build\exploded-aar\com.android.support\appcompat-v7\19.1.0\assets" />
     </dataSet>
     <dataSet config="main" >
-        <source path="C:\Users\Xebia-pc\Desktop\Xebia\Android-CI-CD-Git-Jenkins-HockeyApp\AndroidCICD\app\src\main\assets" />
+        <source path="C:\Users\Xebia-pc\Desktop\Xebia\Android-CI-CD-Git-Jenkins-HockeyApp\app\src\main\assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="C:\Users\Xebia-pc\Desktop\Xebia\Android-CI-CD-Git-Jenkins-HockeyApp\AndroidCICD\app\src\debug\assets" />
+        <source path="C:\Users\Xebia-pc\Desktop\Xebia\Android-CI-CD-Git-Jenkins-HockeyApp\app\src\debug\assets" />
     </dataSet>
 
 </merger>

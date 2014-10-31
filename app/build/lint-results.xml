@@ -19,7 +19,7 @@ Of course it&apos;s possible that your custom drawable is translucent and you wa
         errorLine1="    android:background=&quot;#cccc&quot;"
         errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\Xebia-pc\Desktop\Xebia\Android-CI-CD-Git-Jenkins-HockeyApp\AndroidCICD\app\src\main\res\layout\fragment_navigation_drawer.xml"
+            file="C:\Users\Xebia-pc\Desktop\Xebia\Android-CI-CD-Git-Jenkins-HockeyApp\app\src\main\res\layout\fragment_navigation_drawer.xml"
             line="8"
             column="5"/>
     </issue>
