@@ -11,16 +11,30 @@ android {
         versionCode 10300
     }
 
-    lintOptions {
-        abortOnError false
+    signingConfigs {
+
+        release {
+            storeFile file("xebia.jks");
+            storePassword "xebiaIndia123";
+            keyAlias "xebia";
+            keyPassword "xebiaIndia123";
+
+        }
     }
 
     buildTypes {
         release {
+            signingConfig signingConfigs.release
+            zipAlign false
             runProguard false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+
+    lintOptions {
+        abortOnError false
+    }
+
+
 }
 
 dependencies {
